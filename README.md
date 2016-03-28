@@ -1,0 +1,2 @@
+# svgoptim
+svgoptim
